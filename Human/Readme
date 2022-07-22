@@ -1,0 +1,21 @@
+This project is about Human activities: walking, running, and swimming.
+The purpose of the project is to utilize one of the most important OOP knowlege, Inheritance.
+
+INFORMATION CONTAINED IN CLASSES
+1. There are three kinds of people, a child, a parent, and a gradparent.
+2. Everyone has the information about the current location, (x, y).
+3. Everyone can walk to (x, y).
+4. A child and a parent can run to (x, y).
+5. A Grandparent's default speed is 1. A 3 for a parent, and a 5 for a child.
+6. When running, speed gets faster by 2.
+7. When swimming, speed gets faster by 1.
+8. Only child can swim to (x, y).
+
+WHAT I DID IN THE MAIN CLASS
+1. make a person (instance) representing each kind of people.
+2. Everyone's default location is (0, 0).
+3. Check everyone's name, age, and current location.
+4. Everyone who can walk move to (1, 1).
+5. Everyone who can run move to (2, 2).
+6. Everyone who can swim move to (3, -1).
+
