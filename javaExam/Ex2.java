@@ -1,7 +1,5 @@
 package javaExam;
 
-import java.sql.SQLOutput;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex2 {
